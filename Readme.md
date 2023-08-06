@@ -1,7 +1,7 @@
 # Corider-CRUD Flask Application
 
 
-### This is a backend API written in Flask for a Corider-CRUD application. The application allows you to perform CRUD operations (Create, Read, Update, Delete) on a Corider resource using HTTP requests.
+### This is a backend API written in Flask for a Corider-CRUD application. The application allows you to perform CRUD operations (Create, Read, Update, Delete) on a  resource using HTTP requests.
 
 Python version: 3.8
 
